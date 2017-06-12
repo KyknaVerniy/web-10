@@ -48,7 +48,7 @@ width: calc(100% - 20px);
 }
 #main:after{
 content:"";
-deiplay:block;
+display:block;
 clear:both;
 }
 }
