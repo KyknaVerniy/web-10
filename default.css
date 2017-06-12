@@ -67,6 +67,9 @@ body{
 background-color: gray;
 font-family: "Noto Sans Japanese"
 }
+  body{
+background-color: gray;
+}
 header{
 padding: 10px;
 text-align: center;
